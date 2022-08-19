@@ -1,8 +1,6 @@
 # Mi-nuevo-proyecto
 Building IA
 created by Reaktor Innovations and University of Helsinki.
-Copy the template, paste it to your GitHub README and edit! -->
-
 # Project Title
 
 Final project for the Building AI course
