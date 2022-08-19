@@ -1,6 +1,6 @@
 # Mi-nuevo-proyecto
-Building IA
-created by Reaktor Innovations and University of Helsinki.
+IA
+Created by Reaktor Innovations and University of Helsinki.
 # Project Title
 
 Final project for the Building AI course
